@@ -1,0 +1,12 @@
+Una librería desea que desarrollemos un script para listar la cantidad de títulos existentes en el stock con un valor mayor a $987,65 de cada unidad.
+
+Para esto contamos con un archivo llamado StockValorizado.dat del que solo sabemos lo siguiente:
+
+    *
+      Sus campos están separados por el caracter ‘=’
+    *
+      El segundo campo contiene el título
+    *
+      El tercer campo contiene el valor unitario
+
+Importante: Solo se pueden utilizar los comandos grep, sed, wc y echo.

@@ -1,0 +1,6 @@
+Este es el archivo de entrada
+
+
+con 	linea	espaciadas			
+
+fin

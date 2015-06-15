@@ -1,0 +1,3 @@
+Se requiere desarrollar un script parser.sh tal que dado un archivo fuente pasado por parámetro, genere un archivo de salida con el mismo contenido del archivo de entrada, excepto los caracteres espacio y tabs que se encuentren en las lineas, además no debe aparecer en el archivo de salida ninguna linea sin caracter.
+
+El archivo de salida debe generarse en el directorio /tmp, con nombre igual al del archivo original, mas el agregado de una extensión “-+-”

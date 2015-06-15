@@ -1,0 +1,4 @@
+este	es mi documento		de
+entrada
+					
+con una linea vacia
